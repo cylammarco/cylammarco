@@ -6,4 +6,4 @@ I'm an Observational Astrophysicist/Software Developer at Tel Aviv University wh
 - 💫 [Tel Aviv University Star Destroyers group](https://www.stardestroyers.sites.tau.ac.il/)
 - 🐣 [Twitter](https://twitter.com/CYMarcoLAM)
 - 🧻 [Google Scholar](https://scholar.google.com/citations?user=CE0rGKYAAAAJ&hl=en)
-- 🔭 I’m currently maintaining [ASPIRED](https://github.com/cylammarco/ASPIRED), [RASCAL](https://github.com/jveitchmichaelis/rascal) & [WDPhotTools](https://github.com/cylammarco/WDPhotTools)
+- 🔭 I’m currently maintaining [ASPIRED](https://github.com/cylammarco/ASPIRED), [RASCAL](https://github.com/jveitchmichaelis/rascal), [WDPhotTools](https://github.com/cylammarco/WDPhotTools) & [SpectResC](https://github.com/cylammarco/SpectResC)
