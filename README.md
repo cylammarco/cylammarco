@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Marco (@cylammarco)
 
-I'm an Observational Astrophysicist/Software Developer at Tel Aviv University where I work on white dwarfs⭐, faint blue pulsators🌟, delayed time distribution of supernovae💥, star formation history of the Galaxy and other galaxies🌌, and spectral data reduction software development 🏳️‍🌈👾.
+I'm an senior researcher/software developer at The University of Edinburgh where I work with the Euclid consortium. My personal researches cover the topic of white dwarfs⭐, faint blue pulsators🌟, star formation history of the Galaxy🌌, and spectral data reduction software development 🏳️‍🌈👾.
 
 - 🤗 [Personal website](https://cylammarco.github.io/cylammarco/)
 - 💫 [Tel Aviv University Star Destroyers group](https://www.stardestroyers.sites.tau.ac.il/)
